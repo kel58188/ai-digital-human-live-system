@@ -26,9 +26,6 @@
 - 模拟真实主播节奏
 - 可扩展直播弹幕接入
 
-## 项目截图
-（这里你后面放图片）
-
 ## 如何运行
 ```bash
 pip install -r requirements.txt
